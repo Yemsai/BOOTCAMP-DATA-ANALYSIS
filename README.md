@@ -13,6 +13,8 @@ the primary source of data used here is data sale. csv and this is an open sourc
 - python
 - SQL
 
+
+
 ---
 
 Google query sheet
